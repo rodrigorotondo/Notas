@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Introduccion a la ciencia de datos.md","id":"0b2483ddff884930","x":-200,"y":-340,"width":400,"height":400},
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Correlacion de variables.md","id":"844fbe547e739767","x":-200,"y":240,"width":400,"height":400},
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Entrenamiento.md","id":"aa883fdcb4e119df","x":1200,"y":960,"width":400,"height":400},
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Covarianza.md","id":"e5b156cd613994da","x":200,"y":960,"width":400,"height":400},
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Varianza.md","id":"d9e9d7aab09d387f","x":-436,"y":960,"width":400,"height":400},
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Metodos de regresion.md","id":"40b4706d13f59b33","x":-1120,"y":960,"width":400,"height":400},
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Metodos de clasificacion.md","id":"f5e4898a75b6303a","x":-1840,"y":960,"width":400,"height":400},
+		{"id":"769edf120dbba23a","x":1200,"y":1760,"width":400,"height":400,"type":"file","file":"Notas/Organizacion de datos/29_8/Metricas.md"},
+		{"type":"file","file":"Notas/Organizacion de datos/29_8/Correlacion de pearson.md","id":"6dcb66eb0a54b260","x":200,"y":1760,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f78e798dec4f41f8","fromNode":"0b2483ddff884930","fromSide":"bottom","toNode":"844fbe547e739767","toSide":"top"},
+		{"id":"c0c2807fe05e8cf9","fromNode":"844fbe547e739767","fromSide":"bottom","toNode":"d9e9d7aab09d387f","toSide":"top"},
+		{"id":"7c1f0b537af759f6","fromNode":"844fbe547e739767","fromSide":"bottom","toNode":"e5b156cd613994da","toSide":"top"},
+		{"id":"a44efb93356f33f6","fromNode":"e5b156cd613994da","fromSide":"bottom","toNode":"6dcb66eb0a54b260","toSide":"top"},
+		{"id":"7acabe19b500aef3","fromNode":"844fbe547e739767","fromSide":"bottom","toNode":"40b4706d13f59b33","toSide":"top"},
+		{"id":"03fe8179fbbd0feb","fromNode":"844fbe547e739767","fromSide":"bottom","toNode":"f5e4898a75b6303a","toSide":"top"},
+		{"id":"9c7b23c562095554","fromNode":"844fbe547e739767","fromSide":"bottom","toNode":"aa883fdcb4e119df","toSide":"top"},
+		{"id":"127807200bcfe7ae","fromNode":"aa883fdcb4e119df","fromSide":"bottom","toNode":"769edf120dbba23a","toSide":"top"}
+	]
+}
