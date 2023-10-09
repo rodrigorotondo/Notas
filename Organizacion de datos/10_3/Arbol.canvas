@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6def0a5fafcedf20","x":-13,"y":-269,"width":400,"height":400,"type":"file","file":"Notas/Organizacion de datos/10_3/Ensambles.md"},
+		{"id":"79a6f61261f45254","x":387,"y":441,"width":400,"height":400,"type":"file","file":"Notas/Organizacion de datos/10_3/AdaBoost.md"},
+		{"id":"ac61ee85946098fc","x":-413,"y":441,"width":400,"height":400,"type":"file","file":"Notas/Organizacion de datos/10_3/Gradient Boost.md"},
+		{"id":"d9f423522b97035b","x":-413,"y":1200,"width":400,"height":400,"type":"file","file":"Notas/Organizacion de datos/10_3/XGBoost.md"}
+	],
+	"edges":[
+		{"id":"7c1dbc91985d8656","fromNode":"6def0a5fafcedf20","fromSide":"bottom","toNode":"ac61ee85946098fc","toSide":"top"},
+		{"id":"433b5a30c7c49ef7","fromNode":"6def0a5fafcedf20","fromSide":"bottom","toNode":"79a6f61261f45254","toSide":"top"},
+		{"id":"3474bd0953c9fb18","fromNode":"ac61ee85946098fc","fromSide":"bottom","toNode":"d9f423522b97035b","toSide":"top"}
+	]
+}

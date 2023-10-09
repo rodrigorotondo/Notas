@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"88646be8fc52a4b4","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Pruebas de software.md","x":-160,"y":-300,"width":400,"height":400},
+		{"id":"77bf734b6b1e8aa7","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Pruebas de verificacion (Pruebas tecnicas) vs. Pruebas de validacion (Pruebas de usuarios).md","x":-560,"y":317,"width":400,"height":400},
+		{"id":"97733136f04c07be","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Pruebas funcionales vs. Pruebas de atributos de calidad.md","x":240,"y":317,"width":400,"height":400},
+		{"id":"4cabb77d5f9ce003","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Piramide de pruebas.md","x":-1300,"y":317,"width":400,"height":400},
+		{"id":"103a954067629aac","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Roles... Programadores vs Testers.md","x":1060,"y":317,"width":400,"height":400},
+		{"id":"a1b3eb2fbdf3b2e3","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Herramientas de automatizacion.md","x":-160,"y":1040,"width":400,"height":400},
+		{"id":"6690cf989b6e7e7c","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Cobertura.md","x":-160,"y":2240,"width":400,"height":400},
+		{"id":"2a97fbbb31fd30a7","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Pruebas automatizadas... quien las desarrolla?.md","x":1212,"y":1880,"width":400,"height":400},
+		{"id":"2684fe237891e028","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Pruebas de software... cuando se llevan a cabo?.md","x":-760,"y":2240,"width":400,"height":400},
+		{"id":"66c9ec60721d9c41","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Diseño de pruebas (unitarias y tecnicas).md","x":812,"y":-300,"width":400,"height":400,"color":"1"},
+		{"id":"262d47e939b021cc","x":2511,"y":192,"width":400,"height":400,"color":"1","type":"file","file":"Notas/Algo 3/Algo 3/9_7/Test Driven Development.md"}
+	],
+	"edges":[
+		{"id":"21b3cc945f78839e","fromNode":"88646be8fc52a4b4","fromSide":"bottom","toNode":"77bf734b6b1e8aa7","toSide":"top"},
+		{"id":"623bc32ef9e6d38b","fromNode":"88646be8fc52a4b4","fromSide":"bottom","toNode":"97733136f04c07be","toSide":"top"},
+		{"id":"8b2fe569135e29ff","fromNode":"88646be8fc52a4b4","fromSide":"bottom","toNode":"4cabb77d5f9ce003","toSide":"top"},
+		{"id":"d96b3be7e81d99a7","fromNode":"88646be8fc52a4b4","fromSide":"bottom","toNode":"103a954067629aac","toSide":"top"},
+		{"id":"0389901d97a5c496","fromNode":"77bf734b6b1e8aa7","fromSide":"bottom","toNode":"a1b3eb2fbdf3b2e3","toSide":"top"},
+		{"id":"586ad67548948d41","fromNode":"97733136f04c07be","fromSide":"bottom","toNode":"a1b3eb2fbdf3b2e3","toSide":"top"},
+		{"id":"9ce5cc30f7d9a719","fromNode":"103a954067629aac","fromSide":"bottom","toNode":"a1b3eb2fbdf3b2e3","toSide":"top"},
+		{"id":"fdec918e7e2bcaba","fromNode":"a1b3eb2fbdf3b2e3","fromSide":"bottom","toNode":"6690cf989b6e7e7c","toSide":"top"},
+		{"id":"42ae147d8fc3276e","fromNode":"77bf734b6b1e8aa7","fromSide":"bottom","toNode":"6690cf989b6e7e7c","toSide":"top"},
+		{"id":"362615dde6f9d170","fromNode":"97733136f04c07be","fromSide":"bottom","toNode":"6690cf989b6e7e7c","toSide":"top"},
+		{"id":"c00bb5b31b461bf1","fromNode":"a1b3eb2fbdf3b2e3","fromSide":"bottom","toNode":"2a97fbbb31fd30a7","toSide":"top"},
+		{"id":"05a136bd9d6c937b","fromNode":"6690cf989b6e7e7c","fromSide":"right","toNode":"2a97fbbb31fd30a7","toSide":"left"},
+		{"id":"1d85e09d3410e91d","fromNode":"103a954067629aac","fromSide":"bottom","toNode":"2a97fbbb31fd30a7","toSide":"top"},
+		{"id":"b9aef295bd8abfe8","fromNode":"77bf734b6b1e8aa7","fromSide":"bottom","toNode":"2684fe237891e028","toSide":"top"},
+		{"id":"5f15a8afa9974f3a","fromNode":"97733136f04c07be","fromSide":"left","toNode":"2684fe237891e028","toSide":"top"},
+		{"id":"0987458600769506","fromNode":"a1b3eb2fbdf3b2e3","fromSide":"left","toNode":"2684fe237891e028","toSide":"top"},
+		{"id":"bff06ec68efa341b","fromNode":"88646be8fc52a4b4","fromSide":"right","toNode":"66c9ec60721d9c41","toSide":"left"},
+		{"id":"efa81a42fc6c4a45","fromNode":"66c9ec60721d9c41","fromSide":"bottom","toNode":"97733136f04c07be","toSide":"top"},
+		{"id":"fb651d87db44caae","fromNode":"66c9ec60721d9c41","fromSide":"left","toNode":"77bf734b6b1e8aa7","toSide":"right"},
+		{"id":"b99d6bbcfc5414f5","fromNode":"66c9ec60721d9c41","fromSide":"right","toNode":"262d47e939b021cc","toSide":"left"}
+	]
+}
