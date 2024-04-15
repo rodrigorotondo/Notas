@@ -39,7 +39,7 @@ Cada subclase puede convertirse en la superclase de otra.
 	los metodos privados y los atributos privadaos NO se heredan pero los        metodos protegidos y los atributos protegidos si
 
 
-	En esta catedra los atributos van privados y los metodos publico parece      chiste pero es posta
+	
 
 
 ## La herencia y las jerarquias de clases
@@ -128,11 +128,11 @@ utilizarse para referirse a:
 2. la aplicación de mecanismos de restricción de acceso a los atributos y métodos;
 3. el ocultamiento de información como principio de diseño.
 
-El primer significado de encapsulamiento refleja el hecho de que los objetos son
-entidades que agrupan los atributos y los métodos que operan sobre ellos. Así,
-un objeto es una cápsula cuyo interior (su implementación) sólo se debería poder
-utilizar a través de puntos de contacto con el exterior (su interfaz) bien definidos.
-El segundo significado se refiere al control de la accesibilidad o visibilidad de los métodos y atributos desde el exterior, mediante palabras claves (especificadores de acceso), que definen qué miembros son la interfaz y cuáles la implementación. Finalmente, el ocultamiento de información es un principio que sugiere que, para obtener un buen diseño, todos los detalles de la implementación deben ser invisibles desde el exterior.
+- El primer significado de encapsulamiento refleja el hecho de que los objetos son entidades que agrupan los atributos y los métodos que operan sobre ellos. Así, un objeto es una cápsula cuyo interior (su implementación) sólo se debería poder utilizar a través de puntos de contacto con el exterior (su interfaz) bien definidos.
+
+- El segundo significado se refiere al control de la accesibilidad o visibilidad de los métodos y atributos desde el exterior, mediante palabras claves (especificadores de acceso), que definen qué miembros son la interfaz y cuáles la implementación. 
+
+- Finalmente, el ocultamiento de información es un principio que sugiere que, para obtener un buen diseño, todos los detalles de la implementación deben ser invisibles desde el exterior.
 
 
 En Java, la declaración de una clase de objetos garantiza la primera acepción

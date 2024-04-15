@@ -21,7 +21,7 @@ __variables independientes:
 ## Variables y tipos de problemas
 
 1. si la variable dependiente es **cualitativa**, el tipo de problema es de **clasificacion** 
-2. Si la variable dependiente es **cualitativa** ,  el problema es de **regresion**
+2. Si la variable dependiente es **cuantitativa** ,  el problema es de **regresion**
 3. Si **NO hay variables** dependientes, el problema es de **agrupamiento**
 
 
